@@ -1,4 +1,4 @@
-- 👋 Oi, atualmente estudando Front-End
+- 👋 Olá, me chamo Robson e  atualmente estudando Front-End
 - 👀 HTML, CSS, JAVASCRIPT
 
 
