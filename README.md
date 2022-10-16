@@ -20,4 +20,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 </div>
+   ![snake gif](https://github.com/RobsonDev23/RobsonDev23/blob/output/github-contribution-grid-snake.svg)
+</div>
 
